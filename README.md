@@ -1,4 +1,4 @@
- CRUD Operations unsing Nodejs/Expressjs et Json files as Database
+ CRUD Operations unsing Nodejs/Expressjs and Json files as Database
 
 
 How to use :
